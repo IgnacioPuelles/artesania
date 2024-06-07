@@ -356,7 +356,7 @@ button{
 }
 
 .fondo-index{
-    background-color: #faeee3;
+    background-color: #96bda8;
     background-blend-mode: lighten;
     height: 100%; 
     width: 100%;    
@@ -365,7 +365,7 @@ button{
 }
 
 .navbar {
-    background-color: #fdcf76; 
+    background-color: #966c80; 
     height: 80px;
 }
 
@@ -374,7 +374,7 @@ button{
 }
 
 .navbar-collapse{
-    background-color: #fdcf76; 
+    background-color: #966c80; 
     z-index: 3;
     padding: 15px;
 }
@@ -750,7 +750,7 @@ button{
 }
 
 footer{
-    background-color: #eaccad;
+    background-color: #966c80;
 }
 
 .footercontainer{
@@ -761,13 +761,13 @@ footer{
 .iconos{
     display: flex;
     justify-content: center;
-    background-color: #eaccad;
+    background-color: #966c80;
 }
 
 .iconos a{
     text-decoration: none;
     padding: 10px;
-    background-color: #e8c39e;
+    background-color: #966c80;
     margin: 10px;
     border-radius: 50%;
 }
@@ -813,7 +813,7 @@ footer{
 }
 
 .footerbotton{
-    background-color: #eaccad;
+    background-color: #966c80;
     padding-bottom: 10px;
     text-align: center;
 }
