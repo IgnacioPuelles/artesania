@@ -68,7 +68,7 @@
 }
 
 .body-color{
-    background-color: #faeee3;
+    background-color: #96bda8;
 }
 
 .body-color p{
@@ -394,7 +394,7 @@ button{
 }
 
 .navbar-nav .nav-link:hover {
-    color: #a18052;
+    color: #fdfdfd;
 }
 
 .search-index{
@@ -467,7 +467,7 @@ button{
     margin-bottom: 50px;
     border-style: solid;
     border-width: 1px;
-    border-color: #a18052;
+    border-color: #966c80;
     z-index: -2;
     width: 60%;
     max-width: 1400px;
@@ -499,7 +499,7 @@ button{
 }
 
 .horario-div th {
-    background-color: #f7efe9;
+    background-color: #966c80;
     font-weight: bold;
 }
 
@@ -509,7 +509,7 @@ button{
 }
 
 .horario-div tbody tr:nth-child(even) {
-    background-color: #f7efe9; 
+    background-color: #966c80; 
 }
 
 .horario-div td:nth-child(2) {
@@ -529,7 +529,7 @@ button{
     margin-bottom: 50px;
     border-style: solid;
     border-width: 1px;
-    border-color: #a18052;
+    border-color: #966c80;
     padding: 60px;
     font-family: AbeeZee;
     z-index: 10;
